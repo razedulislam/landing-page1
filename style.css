@@ -124,7 +124,7 @@ header label{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ff0e22;
+    background-color:#7b58bd;
     background-size: cover;
     background-position: center;
 }
@@ -145,7 +145,7 @@ header label{
 
 .home .content h3{
     font-size: 5.5rem;
-    color:rgb(196, 187, 187);
+    color:rgb(235, 139, 139);
     text-transform: uppercase;
 }
 
@@ -242,7 +242,7 @@ header label{
 .newsletter{
     text-align: center;
     padding:5rem 1rem;
-   background-color: #ff0e22;
+   background-color:#d15b94;
     background-size: cover;
     background-position: center;
 }
@@ -479,7 +479,7 @@ header label{
 
 .footer{
     padding-top: 3rem;
-   background-color: #ff0e22;
+   background-color:#d15b94;
     background-size: cover;
     background-position: center;
 }
