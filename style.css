@@ -124,7 +124,7 @@ header label{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:url(../images/home-page2.png) no-repeat;
+    background-color: #ff0e22;
     background-size: cover;
     background-position: center;
 }
